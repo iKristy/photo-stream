@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: kuka.photo
+title: kuka.photo | Welcome to Kristy's photo stream
 author:
   name: Kristy Marcinova
   website: https://kuka.design
-description: >- Welcome to my Photo Stream
-baseurl: "" # the subpath of your site, e.g. /blog
+description: Welcome to Kristy's photo stream
+baseurl: ""
 url: "https://kuka.photo/"
 twitter_username: iKristy
 github_username: iKristy
